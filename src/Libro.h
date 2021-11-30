@@ -172,6 +172,9 @@ int GuardarListaLibroEnArchivo(char* path, LinkedList* listaLibros);
 /// @return int (0)[puntero a NULL] - (1)[Se pudo guardar]
 int libro_agregarEnArchivoCsv(void* element, FILE* pArchivo);
 
+
+int libro_mapearLibroSegunEditorial(void* element);
+
 int libro_contarLibrosSegunEditorial(void* element);
 
 #endif /* LIBRO_H_ */

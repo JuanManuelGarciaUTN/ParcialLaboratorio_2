@@ -80,4 +80,6 @@ void PresioneEnterParaContinuar(void);
 /// @return int (0)[puntero a NULL] - (1)[formateo correcto]
 int FormatearPathArchivo(char* path, int conExtensionCsv);
 
+void MostrarRespuestaMapeo(int respuestaController);
+
 #endif /* MENU_H_ */

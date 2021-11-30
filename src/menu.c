@@ -15,7 +15,8 @@ void MostrarMenuPrincipal(void)
 			"3 -> ORDENAR Lista de Libros por Autor\n"
 			"4 -> MOSTRAR Lista de Libros \n"
 			"5 -> GUARDAR Libros de Editorial MINOTAURO en Archivo \n"
-			"6 -> Salir del Programa \n\n");
+			"6 -> APLICAR Descuentos y GUARDAR en Archivo \n"
+			"7 -> Salir del Programa \n\n");
 }
 
 void MostrarRespuestaCargarLibros(int respuestaController)
@@ -195,4 +196,23 @@ int FormatearPathArchivo(char* path, int conExtensionCsv)
 	}
 
 	return seFormateo;
+}
+
+void MostrarRespuestaMapeo(int respuestaController)
+{
+	system("cls");
+	switch(respuestaController)
+	{
+		case -1:
+			printf("No se Puede Aplicar Descuento La Lista Esta VACIA\n\n");
+			break;
+
+		case 0:
+			printf("ERROR. Archivo Invalido\n\n");
+			break;
+
+		case 1:
+			printf("Se Aplico CORRECTAMENTE el Descuento a los Libros\n\n");
+			break;
+	}
 }

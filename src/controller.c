@@ -12,7 +12,7 @@ int controller_menuPrincipal(void)
 	int opcionElejida;
 
 	MostrarMenuPrincipal();
-	PedirEnteroValidado("Ingrese Opcion a realizar: ", "ERROR, opcion inexistente \n", &opcionElejida, 1, 6);
+	PedirEnteroValidado("Ingrese Opcion a realizar: ", "ERROR, opcion inexistente \n", &opcionElejida, 1, 7);
 
 	return opcionElejida;
 }
@@ -103,6 +103,22 @@ int controller_guardarListaLibrosEditorialMinotauro(LinkedList* listaLibros)
 	return sePudoGuardar;
 }
 
+int controller_mapeoListaLibros(LinkedList* listaLibros)
+{
+	int seMapeo;
+	LinkedList* copiaListaLibros = NULL;
+
+	seMapeo = -1;
+
+	if(listaLibros != NULL)
+	{
+		copiaListaLibros = ll_clone(listaLibros);
+		ll_map(copiaListaLibros, libro_mapearLibroSegunEditorial);
+		seMapeo = GuardarListaLibroEnArchivo("archivos/mapeado.csv", copiaListaLibros);
+	}
+	return seMapeo;
+}
+
 int controller_salirDelPrograma(void)
 {
 	return 1;
@@ -133,6 +149,10 @@ void controller_respuestaParaUsuario(int opcionElejida, int respuestaController)
 			break;
 
 		case 6:
+			MostrarRespuestaMapeo(respuestaController);
+			break;
+
+		case 7:
 			MostrarRespuestaSalirDelPrograma();
 			break;
 	}

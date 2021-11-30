@@ -667,6 +667,30 @@ int ll_count(LinkedList* this, int (*fn)(void* element))
 	return contador;
 }
 
+int ll_map(LinkedList* this, int(*pFunc)(void*))
+{
+	int seMapeo;
+	int longitud;
+	Node* nodoIterarLista = NULL;
+	seMapeo = -1;
+
+	if(this != NULL)
+	{
+		seMapeo = 0;
+		longitud = ll_len(this);
+
+		nodoIterarLista = this->pFirstNode;
+		for(int i=0; i<longitud; i++)
+		{
+			seMapeo = 1;
+			pFunc(nodoIterarLista->pElement);
+			nodoIterarLista = nodoIterarLista->pNextNode;
+		}
+	}
+
+	return seMapeo;
+}
+
 //Aca hay unas pruebas que hice, pero no implemente
 
 /* Hice un insertion sort,

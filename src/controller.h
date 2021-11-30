@@ -74,4 +74,6 @@ int controller_salirDelPrograma(void);
 /// @param respuestaController int - el retorno de la opcion ingresada.
 void controller_respuestaParaUsuario(int opcionElejida, int respuestaController);
 
+int controller_mapeoListaLibros(LinkedList* listaLibros);
+
 #endif /* CONTROLLER_H_ */

@@ -74,13 +74,17 @@ int main(void) {
 				break;
 
 			case 6:
+				respuestaController = controller_mapeoListaLibros(listaLibros);
+				break;
+
+			case 7:
 				respuestaController = controller_salirDelPrograma();
 				break;
 		}
 
 		controller_respuestaParaUsuario(opcionEligida, respuestaController);
 
-	} while(opcionEligida != 6);
+	} while(opcionEligida != 7);
 
 	return EXIT_SUCCESS;
 }

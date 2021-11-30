@@ -324,3 +324,46 @@ int libro_contarLibrosSegunEditorial(void* element)
 
 	return contador;
 }
+
+int libro_aplicarDescuento(eLibro* libro, int descuento)
+{
+	int seAplicoDescuento;
+	float porcentaje;
+
+	seAplicoDescuento = 0;
+
+	if(libro != NULL && descuento > -1 && descuento < 101)
+	{
+		porcentaje = (float)descuento/100;
+		libro->precio = libro->precio * (1-porcentaje);
+		seAplicoDescuento = 1;
+	}
+
+	return seAplicoDescuento;
+}
+
+int libro_mapearLibroSegunEditorial(void* element)
+{
+	int seMapeo;
+	eLibro* libroDesempacado;
+	seMapeo = 0;
+
+	if(element != NULL)
+	{
+		libroDesempacado = libro_desempacar(element);
+
+		if(libroDesempacado->idEditorial == 1 && libroDesempacado->precio >= 300)
+		{
+			seMapeo = libro_aplicarDescuento(libroDesempacado, 20);
+		}
+		else
+		{
+			if(libroDesempacado->idEditorial == 2 && libroDesempacado->precio <= 200)
+			{
+				seMapeo = libro_aplicarDescuento(libroDesempacado, 10);
+			}
+		}
+	}
+
+	return seMapeo;
+}
