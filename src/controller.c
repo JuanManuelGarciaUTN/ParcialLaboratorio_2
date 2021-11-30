@@ -115,6 +115,7 @@ int controller_mapeoListaLibros(LinkedList* listaLibros)
 		copiaListaLibros = ll_clone(listaLibros);
 		ll_map(copiaListaLibros, libro_mapearLibroSegunEditorial);
 		seMapeo = GuardarListaLibroEnArchivo("archivos/mapeado.csv", copiaListaLibros);
+		ll_deleteLinkedList(copiaListaLibros);
 	}
 	return seMapeo;
 }
