@@ -1,0 +1,1001 @@
+id,titulo,autor,precio,idEditorial
+1,Ricky Rapper and the Bicycle Thief,Crosby Lideard,1700,5
+2,Garage The,Nari Middlemist,1900,5
+3,Who Are the DeBolts? And Where?,Earvin Witcher,1500,5
+4,Building the Inferno,Concordia O'Brien,600,5
+5,Long Kiss Goodnight,Ferne Waterman,1400,3
+6,Lock Up,Sigfrid Southward,1100,4
+7,Month by the Lake,Mirilla Van der Beken,1200,3
+8,Daar,Kendricks Angrick,1300,3
+9,Good Old Fashioned Orgy,Christi Jancey,900,1
+10,I Like Killing Flies,Germaine Balaam,1300,5
+11,Internes Can't Take Money,Ewell Easseby,2000,1
+12,Toto le héros,Morton Claire,1000,5
+13,Plastic Age The,Atlante Peete,900,3
+14,Midnight Movie,Rabbi Vyse,1700,5
+15,Ladies in Retirement,Nissy Cowburn,600,2
+16,The Old Gun,Atlante Peete,1200,3
+17,What to Do in Case of Fire,Mar Bulward,700,2
+18,Angele,Mariquilla Tolliday,2000,2
+19,Along Came Polly,Smitty Thames,1800,1
+20,Follow Me Quietly,Earvin Witcher,2000,3
+21,Loco Love Mi Casa Su Casa,Smitty Thames,1100,4
+22,Cadillac Man,Mar Bulward,1300,6
+23,Up Close and Personal,Marsh Scranny,1500,2
+24,Defending Your Life,Ferne Waterman,1100,5
+25,Love with the Proper Stranger,Nissy Cowburn,900,2
+26,People That Time Forgot,Johnathan Embury,1400,3
+27,Happy Event A Un Heureux Evénement,Natala Mines,1600,2
+28,Morning After,Mirilla Van der Beken,900,3
+29,The Butterfly Effect,Aubrette Housaman,1400,5
+30,Meatballs ,Atlante Peete,1800,6
+31,Arcana,Aggy Flecknell,1500,4
+32,Our Idiot Brother,Kendricks Angrick,1700,5
+33,Premature,Candide Fullun,1500,1
+34,Employee of the Month,Raquel Duncanson,800,4
+35,Big Hand for the Little Lady A,Cass Inder,1000,4
+36,Murders in the Zoo,Vere Roper,1600,4
+37,Crash,Riva Mattusov,1300,3
+38,White Fang Zanna Bianca,Siouxie Peerman,1300,4
+39,With Byrd at the South Pole,Clevie Squelch,1700,2
+40,Fishtales,Aggy Flecknell,600,3
+41,Crime at Porta Romana,Sigfrid Southward,1600,6
+42,Games People Play New York,Brad Lanfere,1400,5
+43,Back to the Secret Garden,Ferne Waterman,1100,1
+44,Ella Lola a la Trilby,Brad Lanfere,1700,4
+45,Men of Means,Concordia O'Brien,1100,4
+46,Gang Related,Rabbi Vyse,1300,2
+47,More Than a Game,Bald Lancley,900,6
+48,Project X,Aubrette Housaman,1000,3
+49,Harold and Kumar Go to White Castle,Siouxie Peerman,1500,3
+50,When Strangers Appear,Cass Inder,1600,2
+51,Motocrossed,Bernadine Oaker,1400,5
+52,How I Live Now,Crosby Lideard,400,5
+53,Dark Crystal,Rabbi Vyse,2100,3
+54,Sticky Fingers of Time,Mar Bulward,1200,1
+55,Schwestern,Riva Mattusov,1800,6
+56,Christmas in Connecticut,Bernadine Oaker,1600,3
+57,Blackout,Mirilla Van der Beken,1300,5
+58,Cahill US Marshal Cahill,Nari Middlemist,1800,5
+59,Nom de code  Rose,Port Methringham,1400,2
+60,Art and Craft,Port Methringham,2400,3
+61,Joshua,Marsh Scranny,1500,2
+62,The Man Who Wouldn't Die,Ferne Waterman,1400,1
+63,Hiroshima Mon Amour,Cass Inder,1300,4
+64,Something New,Sigfrid Southward,1600,5
+65,Shinobi No Mono  Vengeance,Hube Lentsch,900,1
+66,Kung Fu Hustle Gong fu,Marsh Scranny,1800,1
+67,Return from Witch Mountain,Bernadine Oaker,2000,1
+68,Sita Sings the Blues,Seth Nutty,1000,2
+69,Intruders,Natala Mines,1300,3
+70,Confessions of an Opium Eater,Hube Lentsch,1100,4
+71,Robot  Frank,Moe Ebhardt,1200,3
+72,Irene Go Home! Irena do domu!,Aggy Flecknell,1400,4
+73,Strange Case of Dr Jekyll,Riva Mattusov,1000,4
+74,Levity,Germaine Balaam,1500,1
+75,Images,Atlante Peete,1700,1
+76,Oak The Balanta,Vere Roper,1300,5
+77,Lego The Adventures of Clutch Powers,Concordia O'Brien,1300,2
+78,Ballerina La mort du cygne,Raquel Duncanson,1100,1
+79,Last Kiss,Brad Lanfere,1400,5
+80,Hatchet II,Marsh Scranny,2300,6
+81,Out Cold,Cass Inder,900,2
+82,Strike! All I Wanna Do,Candide Fullun,1400,6
+83,Indie Game The Movie,Bernadine Oaker,1200,5
+84,Draft Day,Mirilla O'Crowley,900,1
+85,Ewok Adventure,Nari Middlemist,1500,6
+86,Other One,Marsh Scranny,1500,6
+87,Color Purple,Aggy Flecknell,1000,6
+88,As Cool As I Am,Ferne Waterman,1300,3
+89,Stille Nacht I Dramolet,Mirilla Van der Beken,1600,6
+90,Last Waltz,Daffi Kemme,1200,3
+91,Magic Christian,Candide Fullun,1000,6
+92,Fearless Vampire Killers,Raquel Duncanson,1600,3
+93,Wonder Woman,Sigfrid Southward,1900,5
+94,Fata Morgana,Moe Ebhardt,900,5
+95,Populaire,Morton Claire,1300,6
+96,I Wish Kiseki,Seth Nutty,2000,4
+97,This Is the End,Hube Lentsch,2100,2
+98,Miss Météo,Christi Jancey,1400,4
+99,L Change the World,Mar Bulward,1400,5
+100,SheDevil,Ewell Easseby,1900,5
+101,Light It Up,Moe Ebhardt,2500,6
+102,Predictions of Fire Prerokbe Ognja,Port Methringham,1700,5
+103,First Man Into Space,Sven Ledes,1400,3
+104,Love Is Strange,Daffi Kemme,1600,6
+105,Cowspiracy The Sustainability Secret,Marsh Scranny,900,3
+106,Inland Empire,Aggy Flecknell,1000,5
+107,I Bought a Vampire Motorcycle,Crosby Lideard,2300,2
+108,Lentsu,Port Methringham,1700,3
+109,Perifery Härmä,Bald Lancley,1600,2
+110,Case of the Grinning Cat,Raquel Duncanson,2000,5
+111,Vivacious Lady,Kendricks Angrick,1800,6
+112,Awesome I Fuckin Shot That!,Marsh Scranny,1400,3
+113,Sheena,Morton Claire,2400,6
+114,Tai Chi Hero,Germaine Balaam,1500,6
+115,Jean Renoir Part One ,Moe Ebhardt,1600,6
+116,Bury My Heart at Wounded Knee,Aggy Flecknell,1000,1
+117,SS Experiment Love,Cornelle Forcer,900,3
+118, Km Long Distance,Port Methringham,2000,5
+119,Miral,Aubrette Housaman,1000,5
+120,Laura,Seth Nutty,1200,2
+121,Conversation Piece,Morton Claire,1200,5
+122,Stay Hungry,Ellene McGurk,1400,3
+123,Stealing a Nation,Nissy Cowburn,1300,1
+124,Fast  Furious Fast and the Furious,Emmalee Folli,1600,6
+125,Diamond Girl,Mirilla Van der Beken,1600,4
+126,Little Mermaid Ariel's Beginning,Aubrette Housaman,1000,5
+127,Restless Souls Bag det stille ydre,Brad Lanfere,1100,4
+128,Spirit,Clevie Squelch,1100,3
+129,House Is Black,Earvin Witcher,600,5
+130,Postman The Postino Il,Grata Bonnaire,1700,1
+131,Abandon Ship! Seven Waves Away,Aubrette Housaman,1800,2
+132,Unforgotten TwentyFive Years,Natala Mines,1500,4
+133,The PeeWee Herman Show on Broadway,Daria Ker,1600,1
+134,Invasion,Natala Mines,900,5
+135,Sandlot,Vere Roper,1300,1
+136,th Kingdom,Candide Fullun,1800,3
+137,Love Is a Woman Death Is a Woman,Aggy Flecknell,1100,3
+138,Mummy,Crosby Lideard,1200,6
+139,Snow Snijeg,Daria Ker,1900,2
+140,I Monster,Tracy Stent,1000,6
+141,Moonlight and Valentino,Hube Lentsch,1300,6
+142,Tyrannosaur,Kendricks Angrick,1700,5
+143,Colors of the Mountain,Hube Lentsch,300,2
+144,Man Made Monster,Marsh Scranny,1700,6
+145,Unzipped,Smitty Thames,1700,2
+146,Dead Outside,Grata Bonnaire,1600,6
+147,Morocco,Daffi Kemme,1800,1
+148,Thirst for Love The Ai no kawaki,Port Methringham,2000,6
+149,Solaris,Daffi Kemme,1400,2
+150,Desirée,Smitty Thames,1500,5
+151,George Lopez It's Not Me It's You,Nari Middlemist,1700,5
+152,Hop,Ewell Easseby,900,1
+153,Women Without Men Zanane bedune mardan,Berrie Fendlen,1900,3
+154,Jack Brooks Monster Slayer,Kendricks Angrick,600,4
+155,Memphis Belle,Aubrette Housaman,1800,3
+156,Yakuza,Earvin Witcher,1200,3
+157,Misunderstood,Earvin Witcher,1400,2
+158,Armored Car Robbery,Emmalee Folli,1500,4
+159,Man with the Screaming Brain,Concordia O'Brien,1300,1
+160,Pink Panther Strikes Again The,Grata Bonnaire,1800,3
+161,Judas Kiss,Brad Lanfere,1100,3
+162,I Bought a Vampire Motorcycle,Christi Jancey,700,3
+163,Driven,Marsh Scranny,1700,4
+164,Ashik Kerib,Mar Bulward,500,2
+165,Piled Higher and Deeper,Candide Fullun,1500,2
+166,Brice Man The Brice de Nice,Daffi Kemme,400,4
+167,The Gun That Won the West,Concordia O'Brien,1700,5
+168,Code of Silence,Smitty Thames,1100,3
+169,Autumn Ball Sügisball,Atlante Peete,1100,5
+170,Quare Fellow The aka The Condemned Man,Bald Lancley,600,3
+171,Agent Cody Banks,Mariquilla Tolliday,1700,1
+172,Nico and Dani Krámpack,Candide Fullun,1000,4
+173,El Lobo,Sigfrid Southward,900,2
+174,Juche Idea,Clevie Squelch,900,5
+175,Emperor's New Groove  Kronk's New Groove,Seth Nutty,1700,2
+176,Fetching Cody,Ewell Easseby,1700,5
+177,Air Force One,Nari Middlemist,1400,4
+178,Gaby A True Story,Karlyn Marages,1300,3
+179,Task,Rabbi Vyse,1100,3
+180,Dead Men Tell,Hube Lentsch,1400,6
+181,Enigma,Crosby Lideard,1400,2
+182,Little Man,Raquel Duncanson,1200,3
+183,Red Hook Summer,Cornelle Forcer,400,2
+184,Stone Angel,Mariquilla Tolliday,1400,2
+185,And God Created Woman,Mirilla O'Crowley,1500,2
+186,Strange Voyage,Ewell Easseby,1200,4
+187,L'instant et la patience ,Daffi Kemme,700,5
+188,Carry on Screaming!,Nari Middlemist,800,1
+189,Beverly Hills Chihuahua ,Mirilla O'Crowley,2500,1
+190,Boynton Beach Bereavement Club,Karlyn Marages,900,5
+191,Nim's Island,Karlyn Marages,1100,1
+192,Chains Catene,Aggy Flecknell,1800,4
+193,Swimmer,Emmalee Folli,1300,1
+194,Genius Within The Inner Life,Daffi Kemme,1200,1
+195,Humboldt County,Clevie Squelch,1300,6
+196,Monsieur Lazhar,Emmalee Folli,1300,6
+197,Bird,Aggy Flecknell,700,6
+198,By the Sword,Nissy Cowburn,1100,1
+199,Where the Rivers Flow North,Mirilla O'Crowley,1400,4
+200,Au Hasard Balthazar,Johnathan Embury,1900,6
+201,Kiss,Cornelle Forcer,1000,1
+202,Battle Cry,Hube Lentsch,1000,4
+203,Beautiful Girls,Smitty Thames,1300,5
+204,Children of the Corn II,Emmalee Folli,300,6
+205,Brighton Rock,Riva Mattusov,1600,1
+206,Dinosaur ,Hube Lentsch,400,3
+207,Faster Pussycat! Kill! Kill!,Johnathan Embury,1000,3
+208,Inglourious Basterds,Aggy Flecknell,1500,3
+209,Daytrippers,Clevie Squelch,900,5
+210,American Dream,Ellene McGurk,1300,4
+211,Snatch,Nissy Cowburn,1800,2
+212,Boiling Point,Karlyn Marages,1500,3
+213,California Solo,Nissy Cowburn,700,4
+214,Festival in Cannes,Cornelle Forcer,1100,4
+215,Let's Do It Again,Sigfrid Southward,700,6
+216,Season's Greetings,Karlyn Marages,900,1
+217,Jerry Maguire,Kendricks Angrick,800,6
+218,J Edgar,Cornelle Forcer,1500,3
+219,Very Good Girls,Tracy Stent,1600,6
+220,Along the Ridge Anche libero va bene,Kendricks Angrick,1300,2
+221,Missing in Action  The Beginning,Grata Bonnaire,1000,5
+222,Zincirbozan,Earvin Witcher,1900,1
+223,Ironclad,Mar Bulward,2200,5
+224,The Baker's Wife,Karlyn Marages,1600,2
+225,Fritz the Cat,Raquel Duncanson,600,6
+226,Normal Adolescent Behavior,Port Methringham,1600,6
+227,In Your Hands,Bernadine Oaker,1100,5
+228,Money Talks,Vere Roper,1800,1
+229,Halloween Tree,Ellene McGurk,1100,4
+230,Fat Kid Rules the World,Marsh Scranny,700,3
+231,Barchester Chronicles,Crosby Lideard,1500,6
+232,Guy X,Brad Lanfere,1400,3
+233,Black Sun Kuroi taiyô,Hube Lentsch,1400,5
+234,Love Happens,Siouxie Peerman,1500,5
+235,Letters to God,Brad Lanfere,1100,4
+236,Prisoner of Paradise,Brad Lanfere,1500,6
+237,Aral Fishing in an Invisible Sea,Johnathan Embury,1300,5
+238,Pavilion of Women,Mar Bulward,800,2
+239,The Two Policemen,Elsey Spinige,2000,3
+240,Nil By Mouth,Mar Bulward,900,2
+241,All the Brothers Were Valiant,Nari Middlemist,1400,4
+242,Heartbreak Hospital,Ewell Easseby,1600,3
+243,Tesseract,Riva Mattusov,1600,1
+244,Hillbillys in a Haunted House,Morton Claire,1100,5
+245,Farmer  Chase,Crosby Lideard,1500,1
+246,Dirty Dancing,Concordia O'Brien,600,3
+247,Batman,Berrie Fendlen,2300,1
+248,Beans of Egypt Maine,Ferne Waterman,1600,4
+249,The Biggest Bundle of Them All,Mirilla O'Crowley,800,3
+250,My Childhood,Seth Nutty,1300,3
+251,What Happens in Vegas,Clevie Squelch,1500,3
+252,Scapegoat,Nari Middlemist,1400,5
+253,i hate myself ,Karlyn Marages,1700,6
+254,Miracles,Natala Mines,700,4
+255,Almost Married,Ellene McGurk,600,3
+256,Alcina,Raquel Duncanson,900,3
+257,Hamilton  In the Interest,Natala Mines,300,6
+258,Machete,Berrie Fendlen,1500,4
+259,Kids of the Round Table,Hube Lentsch,1100,3
+260,Dog,Siouxie Peerman,1300,4
+261,Sam Peckinpah's West Legacy,Berrie Fendlen,400,2
+262,Tremors II Aftershocks,Ewell Easseby,1000,3
+263,Hotel New Hampshire,Port Methringham,1400,3
+264,More the Merrier,Nari Middlemist,1700,2
+265,Farmer's Daughter,Grata Bonnaire,1100,6
+266,Most Beautiful,Earvin Witcher,1900,6
+267,Aziz Ansari Dangerously,Aggy Flecknell,800,4
+268,Entertainer,Nissy Cowburn,1400,4
+269,Pulgasari,Nari Middlemist,800,2
+270,Desperadoes,Chickie Vasilischev,2000,3
+271,Mysterians The Chikyu Boeigun,Seth Nutty,800,3
+272,Best of Everything,Morton Claire,1500,3
+273,Beginning of the End,Raquel Duncanson,900,6
+274,A Walk in the Woods,Seth Nutty,800,2
+275,Tom and Jerry The Lost Dragon,Morton Claire,2000,2
+276,Lady in the Water,Marsh Scranny,1300,2
+277,Yellow Earth Huang tu di,Riva Mattusov,1000,5
+278,Heartless,Natala Mines,1200,3
+279,Earthlings,Crosby Lideard,1200,5
+280,House of Seven Corpses,Germaine Balaam,1900,3
+281,Mothra Mosura,Nissy Cowburn,900,2
+282, East of Bucharest A fost sau na fost?,Grata Bonnaire,2000,4
+283,Earrings of Madame de The Madame de,Hube Lentsch,1000,6
+284,Confessions of a Window Cleaner,Ellene McGurk,1200,2
+285,Must Read After My Death,Ferne Waterman,1600,4
+286,Small Change Argent de poche L,Cornelle Forcer,600,1
+287,Gigantic A Tale of Two Johns,Morton Claire,1000,1
+288,Sleeping Car,Karlyn Marages,1000,1
+289,Kill for Me,Earvin Witcher,1200,2
+290,Diary of a Wimpy Kid,Brad Lanfere,700,4
+291,When Ladies Meet,Earvin Witcher,1100,3
+292,Dumplings Gaau ji,Ellene McGurk,1200,4
+293,Patsy,Mar Bulward,800,4
+294,Milarepa,Ewell Easseby,2200,5
+295,Once Upon a Warrior,Nari Middlemist,1100,1
+296,Plastic Age,Grata Bonnaire,1400,6
+297,Little Nemo Adventures,Bald Lancley,1600,4
+298,Son of the Sheik,Natala Mines,1500,6
+299,Lady on a Train,Ewell Easseby,1900,4
+300,Great Ecstasy of Robert Carmichael,Nissy Cowburn,1000,2
+301,Alabama's Ghost,Ellene McGurk,1800,3
+302,When the Game Stands Tall,Nissy Cowburn,2100,2
+303,Man Made Monster,Ewell Easseby,1600,5
+304,High School High,Aggy Flecknell,1600,4
+305,Mystery Train,Riva Mattusov,1000,4
+306,Sleeping Beauty,Sigfrid Southward,1000,6
+307,The Hyperboloid of Engineer,Hube Lentsch,1700,3
+308, Days and  Nights,Rabbi Vyse,300,3
+309,Convict ,Christi Jancey,1500,5
+310,Revenge of the Electric Car,Nissy Cowburn,1700,6
+311,Miracle of Morgan's Creek,Ellene McGurk,1400,5
+312,Grassroots,Marsh Scranny,700,2
+313,House of Yes,Riva Mattusov,1300,4
+314,Lilla Jönssonligan,Ellene McGurk,1500,5
+315,Mondo,Siouxie Peerman,1400,6
+316,Federal Hill,Karlyn Marages,2100,2
+317,Lesbian Vampire Killers,Earvin Witcher,1400,4
+318,Queen Christina,Concordia O'Brien,1800,6
+319,Iron Eagle II,Chickie Vasilischev,1700,6
+320,Loved Ones The,Christi Jancey,1700,1
+321,Fathom,Christi Jancey,1500,1
+322,The Count of Monte Cristo,Ewell Easseby,300,2
+323,Chocolate,Atlante Peete,1200,4
+324,Pit and the Pendulum,Elsey Spinige,1800,4
+325,Ice Princess,Rabbi Vyse,1300,4
+326,Ali,Ewell Easseby,900,4
+327,Taxi Hunter Di shi pan guan,Ewell Easseby,1600,3
+328,My Name is Juani Yo soy la Juani,Germaine Balaam,1500,6
+329,Money Talks,Crosby Lideard,1000,3
+330,Kokowääh,Daria Ker,400,5
+331,My Gun is Quick,Aubrette Housaman,1400,2
+332,Bad Taste,Bald Lancley,1300,5
+333,An Amazing Couple,Emmalee Folli,1900,6
+334,Mission to Mars,Cornelle Forcer,1000,1
+335,Glue,Rabbi Vyse,1200,1
+336,The Hire Hostage,Earvin Witcher,1600,6
+337,State of Play,Brad Lanfere,900,2
+338,Kairat,Moe Ebhardt,600,6
+339,Illuminata,Daffi Kemme,1300,2
+340,The Butterfly Effect ,Nari Middlemist,800,3
+341,Malcolm X,Ewell Easseby,1000,4
+342,Hairspray,Bald Lancley,1100,3
+343,Krush Groove,Johnathan Embury,2300,2
+344,Cosmic Psychos Blokes,Siouxie Peerman,1000,2
+345,Me and Morrison Minä,Candide Fullun,900,1
+346,China Seas,Karlyn Marages,1500,3
+347,Jour se lève Le Daybreak,Hube Lentsch,900,1
+348,Woody Allen A Documentary,Marsh Scranny,1400,1
+349,Garçu Le,Mirilla O'Crowley,1500,3
+350,Stray Dogs Saghaye velgard,Nissy Cowburn,1100,6
+351,Black Cloud,Marsh Scranny,2400,2
+352,From Morn to Midnight,Chickie Vasilischev,1600,4
+353,Blue Hawaii,Siouxie Peerman,1500,5
+354,Great Sinner,Marsh Scranny,700,3
+355,Starlet,Natala Mines,1000,1
+356,The Invisible Frame,Crosby Lideard,900,4
+357,Hamlet Prince of Denmark,Mirilla O'Crowley,1200,3
+358,Maskerade,Seth Nutty,1900,3
+359,The Story of Robin,Marsh Scranny,1800,3
+360,Lower City Cidade,Cornelle Forcer,1400,1
+361,From Dad to Son,Siouxie Peerman,1600,2
+362,Beyond The Hills,Ellene McGurk,600,2
+363,Fellini's Casanova,Marsh Scranny,700,4
+364,The Shoe,Vere Roper,500,1
+365,Super Capers,Candide Fullun,1100,4
+366,Go Figure Va savoir,Aubrette Housaman,500,5
+367,Lady of Burlesque,Tracy Stent,1100,5
+368,Sex Up Your Life!,Germaine Balaam,1500,4
+369,The Improv  Years Behind,Crosby Lideard,900,6
+370,North to Alaska,Emmalee Folli,2100,5
+371,Smilla's Sense of Snow,Cornelle Forcer,1500,1
+372,When in Rome,Natala Mines,1500,4
+373,Murder on a Honeymoon,Raquel Duncanson,1800,1
+374,Paris Is Burning,Atlante Peete,1700,1
+375,Jails Hospitals  HipHop,Sigfrid Southward,900,4
+376,Return of Don Camillo,Hube Lentsch,1100,2
+377,Hijacking Catastrophe ,Daffi Kemme,1200,4
+378,Street Angel,Nissy Cowburn,1300,2
+379,Damien Omen II,Smitty Thames,700,6
+380,Pandorum,Bernadine Oaker,1100,4
+381,John Tucker Must Die,Germaine Balaam,900,3
+382,Last Circus,Candide Fullun,1800,2
+383,Nightmare on Elm Street,Aggy Flecknell,1700,5
+384,Hocus Pocus,Hube Lentsch,1300,4
+385,Flowers in the Attic,Atlante Peete,1300,1
+386,My Wife's Relations,Kendricks Angrick,1200,3
+387,Fairhaven,Emmalee Folli,1200,5
+388,Stolen Collection Skradziona kolekcja,Sigfrid Southward,1800,3
+389,Girls on the Road,Crosby Lideard,900,6
+390,Black Heaven L'autre monde Other World,Germaine Balaam,1200,6
+391,Anna and the King,Bernadine Oaker,2400,6
+392,Ugly Dachshund,Earvin Witcher,1400,4
+393,Corruptor,Smitty Thames,1000,5
+394,Jennifer's Body,Morton Claire,1500,3
+395,Trespass,Cass Inder,1000,6
+396,Girl Walk All Day,Sigfrid Southward,1100,3
+397,The Army,Ferne Waterman,1700,6
+398,Emma,Atlante Peete,1100,5
+399,What Doesn't Kill You,Johnathan Embury,1800,6
+400,Godzilla's Revenge,Mirilla O'Crowley,900,5
+401,Frightened City The,Nari Middlemist,1600,4
+402,Keeper,Natala Mines,1600,4
+403,Poolboy Drowning Out the Fury,Daffi Kemme,1800,3
+404,Story of O The Histoire d'O,Sigfrid Southward,1700,2
+405,Who's That Knocking at My Door?,Ferne Waterman,1400,3
+406, The Bronx Warriors,Natala Mines,2100,3
+407,Bootmen,Candide Fullun,1300,5
+408,Secret Beyond the Door,Raquel Duncanson,1900,5
+409,Tokyo Drifter Tôkyô nagaremono,Daria Ker,1400,2
+410,Claymation Comedy of Horrors,Daffi Kemme,1800,4
+411,Cats  Dogs The Revenge,Grata Bonnaire,1500,2
+412,Shipping News,Riva Mattusov,400,5
+413,What If,Brad Lanfere,1600,1
+414,Covenant,Riva Mattusov,1200,3
+415,Phil Spector,Cornelle Forcer,1400,5
+416,Powder Blue,Bald Lancley,1200,2
+417,Police Academy  City Under,Sven Ledes,1200,3
+418,Max,Tracy Stent,1100,6
+419,La Putain du roi,Sven Ledes,2400,2
+420,Three Guys Named Mike,Clevie Squelch,800,4
+421,RentaKid,Grata Bonnaire,900,5
+422,Sitting Pretty,Bernadine Oaker,2200,6
+423,I Wake Up Screaming,Moe Ebhardt,2000,3
+424,Coraline,Aggy Flecknell,1600,6
+425,Fake It So Real,Chickie Vasilischev,1700,5
+426,God's Pocket,Aggy Flecknell,1700,3
+427,Southland Tales,Crosby Lideard,1700,4
+428,Reaping,Daria Ker,1500,4
+429,Man of the East,Vere Roper,400,5
+430,Mad Dogs  Englishmen,Moe Ebhardt,1500,3
+431,Submarine,Aubrette Housaman,1600,2
+432,ReAnimator,Bernadine Oaker,1300,2
+433,Plankton,Moe Ebhardt,800,2
+434,Happiness Schastye,Riva Mattusov,900,5
+435,ParisManhattan,Daria Ker,1400,5
+436,Bill  Ted's Bogus Journey,Germaine Balaam,400,5
+437,Easy Money  Snabba cash II,Hube Lentsch,2000,1
+438,Secret of the Grain,Kendricks Angrick,1200,6
+439,Gypsy,Natala Mines,900,6
+440,There's Something About Mary,Mar Bulward,1200,6
+441,Three Wise Men Kolme viisasta miestä,Elsey Spinige,1200,5
+442,Awesome I Fuckin Shot That!,Cass Inder,700,2
+443,My Voyage to Italy,Johnathan Embury,1600,1
+444,Losing Chase,Johnathan Embury,1800,3
+445,Breaking Point,Seth Nutty,2000,4
+446,YellowBrickRoad,Bernadine Oaker,1500,6
+447,Trader Horn,Ellene McGurk,1400,5
+448,Idiocracy,Mar Bulward,1400,3
+449,Rudolph the RedNosed Reindeer,Raquel Duncanson,1300,1
+450,The Fat Spy,Tracy Stent,600,4
+451,Deathsport,Marsh Scranny,1300,2
+452,Back to the Garden,Daffi Kemme,900,5
+453,Shrek the Musical,Ellene McGurk,1200,6
+454,Day After,Port Methringham,1300,3
+455,Angel,Karlyn Marages,700,6
+456,Great Silence,Emmalee Folli,2200,2
+457,Dracula ,Mar Bulward,1400,1
+458,Night Court,Grata Bonnaire,2600,6
+459,First Man The Le Premier Homme,Brad Lanfere,1100,4
+460,Lodger,Germaine Balaam,1400,5
+461,Solomon Northup's Odyssey,Elsey Spinige,800,3
+462,Action in the North Atlantic,Sigfrid Southward,1600,2
+463,High Heels Tacones lejanos,Mar Bulward,1000,2
+464,North Dallas Forty,Port Methringham,1200,4
+465,Babylon  Thirdspace,Ellene McGurk,1200,2
+466,Speed Zone! aka Cannonball Run III,Daffi Kemme,1600,4
+467,[REC]  Apocalypse,Port Methringham,1000,2
+468,ÅsaNisse  Wälkom to Knohult,Bald Lancley,1000,4
+469,Point Men,Vere Roper,1100,5
+470,Same Old Song On connaît la chanson,Johnathan Embury,1800,5
+471,Illuminata,Smitty Thames,1300,1
+472,Happy Feet Two,Mar Bulward,1700,6
+473,Hadewijch,Mirilla Van der Beken,1800,4
+474,Bruiser,Vere Roper,1500,3
+475,Dreamer Inspired by a True Story,Siouxie Peerman,1300,4
+476,Man from Down Under,Smitty Thames,1000,3
+477,Gold Raiders,Aggy Flecknell,2200,2
+478,Old Dogs,Seth Nutty,1800,5
+479,Client  The Rise,Berrie Fendlen,1700,5
+480,Quiet as a Mouse,Earvin Witcher,500,1
+481,Crooks in Clover,Grata Bonnaire,1000,2
+482,Harry and Tonto,Sigfrid Southward,2000,5
+483,I Hate Mondays Nie lubie poniedzialku,Grata Bonnaire,1000,3
+484,In the House,Cass Inder,800,3
+485,Unaccompanied Minors,Mariquilla Tolliday,1600,3
+486,Nina's Heavenly Delights,Karlyn Marages,2000,5
+487,Fifth Commandment,Daria Ker,1300,5
+488,Capital Le capital,Tracy Stent,800,1
+489,Early Spring Soshun,Port Methringham,2200,1
+490,Too Early Too Late Trop tôt trop tard,Raquel Duncanson,300,1
+491,LDK,Ferne Waterman,1200,6
+492,Shall We Dance? Shall We Dansu?,Daffi Kemme,1100,1
+493,Escape from Suburbia Beyond,Chickie Vasilischev,1700,5
+494,Misconception,Christi Jancey,2700,6
+495,Tripper,Port Methringham,1500,4
+496,I See a Dark Stranger,Smitty Thames,1800,6
+497,Cypher,Candide Fullun,1000,2
+498,Out in the Dark,Aubrette Housaman,1000,2
+499,Tokyo Godfathers,Ellene McGurk,800,1
+500,An Amazing Couple,Bald Lancley,600,1
+501,Hollywood Vilifies a People,Natala Mines,2200,2
+502,Godzilla King of the Monsters! Kaijûô Gojira,Bald Lancley,900,2
+503,Am Ende eiens viel zu kurzen,Kendricks Angrick,1800,1
+504,Black Rock,Morton Claire,900,2
+505,Feet,Brad Lanfere,2000,1
+506,Executive Action,Emmalee Folli,1900,2
+507,You Are So Beautiful Je vous,Tracy Stent,1100,2
+508,His Name Was Jason,Crosby Lideard,1700,2
+509,Cobb,Sven Ledes,1300,1
+510,Glass Menagerie,Brad Lanfere,2000,1
+511,Princess of Mars,Bald Lancley,1700,2
+512,An Empress and the Warriors,Karlyn Marages,1300,6
+513,Cops and Robbersons,Siouxie Peerman,500,4
+514,South Central,Sigfrid Southward,1600,6
+515,William Shakespeare's Romeo Juliet,Cornelle Forcer,2000,1
+516, francs,Siouxie Peerman,1000,3
+517,Visitor Q Bizita Q,Moe Ebhardt,1800,2
+518,The Empty Hours,Rabbi Vyse,1200,6
+519,Black White  Gray A Portrait,Morton Claire,2000,1
+520,Up in the Air,Mar Bulward,1200,3
+521,The Hire Hostage,Ferne Waterman,1400,3
+522,Madhouse,Earvin Witcher,1400,4
+523,Stone Reader,Marsh Scranny,1500,4
+524,Don Q Son of Zorro,Candide Fullun,500,3
+525,One Crazy Summer,Siouxie Peerman,800,2
+526,Viva Max!,Earvin Witcher,1100,5
+527,Trip to the Moon A Voyage dans,Aubrette Housaman,700,3
+528,Shampoo,Earvin Witcher,1400,3
+529,Island of Lost Souls,Hube Lentsch,1700,5
+530,ISeeYouCom,Christi Jancey,1100,3
+531,Unearthly,Marsh Scranny,1700,2
+532,Mac,Natala Mines,1600,5
+533,Sister Street Fighter Onna hissatsu ken,Chickie Vasilischev,1100,2
+534,Fools' Parade,Elsey Spinige,1000,3
+535,Flyboys,Cornelle Forcer,1000,3
+536,Swamp Women,Emmalee Folli,1300,2
+537,Distant Voices Still Lives,Mirilla Van der Beken,1200,2
+538,Shining Night A Portrait of Composer,Berrie Fendlen,1300,1
+539,Plastic Bag,Mirilla Van der Beken,1700,4
+540,Godzilla vs Biollante Gojira,Cornelle Forcer,1500,6
+541,Romantics Anonymous Les,Marsh Scranny,1500,3
+542,Kelly  Cal,Daffi Kemme,1000,6
+543,Gretchen the Greenhorn,Nari Middlemist,900,1
+544,Vietnam in HD,Crosby Lideard,1600,6
+545,Deadly Surveillance,Grata Bonnaire,1700,6
+546,Cuba,Germaine Balaam,1000,2
+547,Bait,Riva Mattusov,2000,1
+548,We Stand Alone Together,Mariquilla Tolliday,1600,4
+549,Los Marziano,Riva Mattusov,600,1
+550, Rue Madeleine,Natala Mines,1700,2
+551,Dil Se,Moe Ebhardt,2300,6
+552,Aloha Summer,Aubrette Housaman,1200,5
+553,Old Dark House,Daria Ker,1800,4
+554,I See a Dark Stranger,Port Methringham,2100,4
+555, After the Fall of New York,Vere Roper,1300,2
+556,Dikkenek,Marsh Scranny,2300,4
+557,The Boy Next Door,Tracy Stent,1900,1
+558,Flipper,Elsey Spinige,1500,6
+559,Island,Sven Ledes,1100,3
+560,Jason Becker Not Dead Yet,Riva Mattusov,1100,4
+561,Angel Eyes,Smitty Thames,1400,2
+562,Fragile Trust Plagiarism,Natala Mines,700,3
+563,Deep Rising,Grata Bonnaire,800,5
+564,Three Men and a Cradle,Moe Ebhardt,900,3
+565,For the Birds,Berrie Fendlen,1600,4
+566,Murk Mørke,Kendricks Angrick,300,5
+567,Texas Chainsaw Massacre,Daria Ker,1700,5
+568,Stone Angel The,Atlante Peete,1800,3
+569,Bells of Innocence,Smitty Thames,2000,5
+570,Vertical Ray of the Sun,Emmalee Folli,1700,6
+571,World Without Thieves,Mariquilla Tolliday,2600,3
+572,Freeway,Bernadine Oaker,1100,5
+573,Death Hunt,Vere Roper,1500,4
+574,For Love or Money,Cass Inder,1200,3
+575,Big Trouble,Seth Nutty,1600,4
+576,Madame Satã,Candide Fullun,1200,1
+577,Screamers,Raquel Duncanson,1900,1
+578,Faith School Menace?,Ellene McGurk,2000,6
+579,Emmanuel's Gift,Berrie Fendlen,1400,1
+580,Pirate,Tracy Stent,1200,2
+581,Familie En,Sven Ledes,900,3
+582,Flash Gordon,Rabbi Vyse,2400,6
+583,Tin Man,Siouxie Peerman,1400,2
+584,Man of Straw Untertan Der,Raquel Duncanson,1400,6
+585,Land of the Lost,Port Methringham,1400,5
+586,Fear City A FamilyStyle,Earvin Witcher,1500,6
+587,Glory Road,Chickie Vasilischev,1400,2
+588,No Looking Back,Tracy Stent,1900,3
+589,Man Exposed,Vere Roper,900,3
+590,Copper Mountain,Mirilla O'Crowley,1500,3
+591,Tightrope,Natala Mines,2000,6
+592,Microcosmos Microcosmos,Christi Jancey,1600,5
+593,I Saw What You Did,Johnathan Embury,1400,6
+594,Panic,Siouxie Peerman,1700,2
+595,Legend II The Fong Sai Yuk juk jaap,Elsey Spinige,1100,3
+596,Barenaked in America,Brad Lanfere,1300,2
+597,Death of the Incredible Hulk The,Concordia O'Brien,1000,2
+598,Paranormal Activity ,Hube Lentsch,1100,5
+599,Grandpa for Christmas A Bert  Becca,Ewell Easseby,1100,1
+600,Cool World The,Natala Mines,900,3
+601,Jagged Edge,Smitty Thames,1000,1
+602,Great Day in the Morning,Rabbi Vyse,1400,4
+603,Ghosts of the Abyss,Vere Roper,1800,2
+604,Interview with a Hitman,Morton Claire,1500,6
+605,Brighton Rock,Rabbi Vyse,1000,3
+606,J Gang Meets Dynamite,Grata Bonnaire,800,5
+607,It Started in Naples,Nissy Cowburn,1600,6
+608,Punishment Park,Chickie Vasilischev,1700,2
+609,Deep End,Cornelle Forcer,1000,2
+610,Worlds Apart To verdener,Vere Roper,1500,3
+611,Wild Bill,Earvin Witcher,1900,3
+612,Cry The Grido Il,Chickie Vasilischev,1500,2
+613,Evil Under the Sun,Mirilla Van der Beken,700,6
+614,Attack of the  Ft Woman,Smitty Thames,1100,3
+615,Stranger Among Us,Candide Fullun,1700,1
+616,Ice Age Columbus Who,Smitty Thames,1500,4
+617,Barnyard The Original Party Animals,Cass Inder,1500,4
+618,Twin Falls Idaho,Tracy Stent,1600,2
+619,Charlotte's Web Wilbur,Bald Lancley,1200,1
+620,Free Men Les hommes libres,Earvin Witcher,1300,6
+621,Last Run,Bald Lancley,1000,5
+622,Katyn,Emmalee Folli,1500,1
+623,Twonky,Kendricks Angrick,1200,3
+624,In A Day,Nissy Cowburn,1800,6
+625,Genova Summer in Genoa,Marsh Scranny,1100,5
+626,Sarah Silverman  We Are Miracles,Moe Ebhardt,1000,3
+627,Borrowers,Sven Ledes,1700,1
+628,Antiviral,Ferne Waterman,1200,1
+629,Breathing Fire,Crosby Lideard,2100,4
+630,Come Have Coffee with Us,Mirilla O'Crowley,1800,2
+631,Far Out Isn't Far,Grata Bonnaire,800,3
+632,Slackers,Seth Nutty,1400,6
+633,Helen of Troy,Sigfrid Southward,1700,5
+634,Redhead from Wyoming,Mar Bulward,1800,3
+635,Charlotte Sometimes,Moe Ebhardt,300,6
+636,Out On A Limb,Sven Ledes,600,2
+637,Ballad of the Paper Balloons,Siouxie Peerman,2200,4
+638,And God Spoke,Riva Mattusov,1400,5
+639,Land of the Blind,Raquel Duncanson,1000,1
+640,Spetters,Concordia O'Brien,1100,5
+641,Totally Fed Up,Raquel Duncanson,400,6
+642,Casablanca,Emmalee Folli,2600,1
+643,Toward the Unknown,Ferne Waterman,1700,5
+644,Little Miss Broadway,Ferne Waterman,2100,3
+645,Father and Son Otets,Sigfrid Southward,1500,5
+646,Emma,Earvin Witcher,1300,5
+647,Mimic Sentinel,Emmalee Folli,300,4
+648,Berlin ,Crosby Lideard,2300,3
+649,Auntie from Chicago,Smitty Thames,2200,2
+650,Dark Knight Rises,Cornelle Forcer,1500,3
+651,We Won't Grow Old Together,Kendricks Angrick,1100,3
+652,Operation Ganymed,Clevie Squelch,400,5
+653,Broken Embraces,Atlante Peete,1800,6
+654,Olympus Has Fallen,Riva Mattusov,1300,3
+655,Lost Boys The Thirst,Germaine Balaam,500,1
+656,Logan's War Bound by Honor,Mirilla O'Crowley,1000,6
+657,Gus,Emmalee Folli,1100,5
+658,One Magic Christmas,Riva Mattusov,800,6
+659,Covert Action,Earvin Witcher,900,5
+660,Night Across the Street,Daffi Kemme,1900,5
+661,Children of the Corn III,Emmalee Folli,1200,6
+662,Days of Heaven,Kendricks Angrick,600,6
+663,Faces of Death ,Candide Fullun,800,6
+664,Hadewijch,Vere Roper,1000,2
+665,Maniacts,Elsey Spinige,1600,3
+666,It Should Happen to You,Tracy Stent,900,2
+667,Goliyon Ki Raasleela RamLeela,Bernadine Oaker,800,3
+668,Unconscious Inconscientes,Hube Lentsch,1200,2
+669,Night Falls on Manhattan,Rabbi Vyse,1400,5
+670,The Mayor of Casterbridge,Aggy Flecknell,1000,6
+671,Dirty,Sven Ledes,2100,3
+672,The Last Time I Saw Macao,Chickie Vasilischev,1500,2
+673,Congorama,Marsh Scranny,600,6
+674,Salvador Puig Antich,Mirilla O'Crowley,1700,1
+675,You'll Never Get Rich,Sven Ledes,1400,3
+676,Eden Lake,Germaine Balaam,900,4
+677,Star,Candide Fullun,1200,5
+678,Omega Doom,Nari Middlemist,1200,5
+679,Deadly Surveillance,Ellene McGurk,2000,1
+680,Final Cut,Marsh Scranny,1100,5
+681,Emperor Waltz,Marsh Scranny,1700,5
+682,Snake and Crane,Seth Nutty,900,6
+683,Nancy Drew,Atlante Peete,1400,1
+684,Sgt Bilko,Ewell Easseby,1400,2
+685,Rosemary's Baby,Earvin Witcher,2100,1
+686,Gentlemen,Kendricks Angrick,1200,2
+687,Scaramouche,Moe Ebhardt,2000,2
+688,Million Dollar Legs,Nissy Cowburn,2200,5
+689,Inevitable Defeat of Mister  Pete,Grata Bonnaire,2400,2
+690,Léon The Professional,Seth Nutty,900,5
+691,Mais qui a tué Pamela Rose?,Sigfrid Southward,1100,6
+692,Conquest of Space,Kendricks Angrick,2500,4
+693,Rodan Sora no daikaijû Radon,Daria Ker,1700,2
+694,Marooned,Nari Middlemist,1200,5
+695,Last September The,Riva Mattusov,1400,6
+696,Season of Monsters Szörnyek évadja ,Bald Lancley,1500,4
+697,Last Man on Earth,Mariquilla Tolliday,1100,4
+698,Twilight of a Woman,Mirilla O'Crowley,1600,3
+699,Klown The Movie Klovn,Moe Ebhardt,1300,4
+700,Tess,Bernadine Oaker,1600,3
+701,Misconception,Chickie Vasilischev,700,5
+702,Four Bags Full,Karlyn Marages,900,4
+703,Nobody Knows Anybody,Morton Claire,300,4
+704,Rush Hour,Aggy Flecknell,1000,1
+705,Last Time I Saw Archie,Clevie Squelch,1000,6
+706,Tournament,Riva Mattusov,1200,2
+707,Fred  Vinnie,Riva Mattusov,1700,6
+708,Attack of the Crab Monsters,Bernadine Oaker,1300,1
+709,Cornelis,Ellene McGurk,1900,6
+710,Occupants,Ellene McGurk,1700,1
+711,Up!,Aggy Flecknell,1200,4
+712,Corto Maltese in Siberia,Atlante Peete,1000,1
+713,Caged Heat,Mariquilla Tolliday,1100,5
+714,World's Fastest Indian,Candide Fullun,1000,1
+715,The Black Devil,Sven Ledes,2500,1
+716,Cinematographer Style,Tracy Stent,1500,4
+717,Hovering Over the Water,Johnathan Embury,1000,1
+718,Splitting Heirs,Sven Ledes,900,5
+719,Boy in the Striped Pajama,Moe Ebhardt,1200,5
+720,American Swing,Cornelle Forcer,1300,5
+721,Blame It on the Bellboy,Siouxie Peerman,800,2
+722,Putzel,Rabbi Vyse,1800,2
+723,Mulan II,Tracy Stent,1800,2
+724,TTD Closer to the Edge,Mirilla O'Crowley,700,5
+725,You Only Live Twice,Bald Lancley,1500,3
+726,One Potato Two Potato,Cornelle Forcer,1500,4
+727,From Time to Time,Earvin Witcher,1200,6
+728,Black Swan,Brad Lanfere,600,5
+729,Russkies,Aggy Flecknell,1600,1
+730,Debtocracy,Bernadine Oaker,1300,3
+731,Promises,Raquel Duncanson,1000,5
+732,All That Heaven Allows,Clevie Squelch,700,3
+733,Scalphunters,Germaine Balaam,1000,2
+734,Goodbye Dragon Inn Bu san,Natala Mines,1500,3
+735,American Heist,Natala Mines,1200,1
+736,Dead Man's Shoes,Concordia O'Brien,400,3
+737,Buddy,Mar Bulward,1400,6
+738,Madison Avenue,Smitty Thames,1600,5
+739,Swann in Love Un amour de Swann,Johnathan Embury,1700,3
+740,Noriko's Dinner Table,Brad Lanfere,1500,4
+741,Hearts in Atlantis,Cornelle Forcer,900,6
+742,Terminator Salvation,Ferne Waterman,2000,6
+743,Dracula Dead and Loving It,Hube Lentsch,1700,5
+744,Steel Trap,Seth Nutty,1300,6
+745,Harold  Kumar Escape from Guantanamo Bay,Clevie Squelch,900,4
+746,Bat Whispers,Rabbi Vyse,1600,5
+747,Godzilla Against MechaGodzilla,Daria Ker,1200,1
+748,The Apocalypse,Atlante Peete,1200,1
+749,Andrew Dice Clay Indestructible,Aubrette Housaman,1600,3
+750,Godzilla vs Biollante Gojira vs Biorante ,Chickie Vasilischev,1300,3
+751,That's My Boy,Moe Ebhardt,2300,1
+752,Hanging Tree,Sigfrid Southward,1800,5
+753,Clash of the Titans,Karlyn Marages,1500,4
+754,Alive,Johnathan Embury,1100,2
+755,Macabre,Christi Jancey,1800,3
+756,Woman Thou Art Loosed,Elsey Spinige,1200,4
+757,Better Tomorrow A Ying,Berrie Fendlen,1000,4
+758,Fourth Protocol,Ewell Easseby,1000,4
+759,White Fang Zanna Bianca,Riva Mattusov,2800,3
+760,Safety Patrol,Earvin Witcher,1500,5
+761,Miracle Woman,Karlyn Marages,500,1
+762,Sundays,Ellene McGurk,1600,6
+763,Eaux d'artifice,Ferne Waterman,1700,2
+764,King of Fighters,Mariquilla Tolliday,1300,1
+765,Holiday Wishes,Siouxie Peerman,1000,4
+766,Welcome to Sarajevo,Port Methringham,1400,3
+767,Neds,Daffi Kemme,1900,5
+768,Chill Out! Descongélate!,Candide Fullun,1500,5
+769,Day the Fish Came Out,Riva Mattusov,1300,1
+770,Stealing a Nation,Hube Lentsch,2100,5
+771,Flight of Dragons,Moe Ebhardt,1000,4
+772,End of the Line,Elsey Spinige,800,2
+773,Roxanne,Ewell Easseby,500,6
+774,Last Boy Scout,Natala Mines,900,3
+775,Hamlet,Atlante Peete,1000,4
+776,Cantante,Johnathan Embury,1100,6
+777,Hey Bartender,Raquel Duncanson,1800,6
+778,Arsène Lupin,Hube Lentsch,1000,1
+779,Bound,Sigfrid Southward,700,4
+780,Zebra Lounge,Elsey Spinige,2000,4
+781,Saddest Music in the World The,Marsh Scranny,1200,1
+782,Teenage,Germaine Balaam,1300,5
+783,Stranded I've Come from a Plane,Vere Roper,1400,6
+784,Ideal Husband,Kendricks Angrick,1300,4
+785,Kings of the Sun,Elsey Spinige,1500,3
+786,Experiment in Terror,Nari Middlemist,1700,6
+787,Soul of a Man The,Sven Ledes,1400,4
+788,Good Day to Die Hard,Riva Mattusov,1200,2
+789,Kind Hearts and Coronets,Natala Mines,600,5
+790,Love Is a ManySplendored Thing,Sven Ledes,200,6
+791,Call Her Savage,Siouxie Peerman,1700,5
+792,Where the Wild Things Are,Earvin Witcher,900,5
+793,Speedway Junky,Rabbi Vyse,1400,5
+794,Graceland,Siouxie Peerman,1500,1
+795,First Texan,Karlyn Marages,1200,2
+796,E Aí Comeu?,Smitty Thames,900,2
+797,Paradise Lost The Child Murders,Vere Roper,1500,4
+798,Fast Food Fast Women,Berrie Fendlen,1700,2
+799,Olympia Part Two,Germaine Balaam,900,1
+800,Peacemaker,Ewell Easseby,1500,6
+801,Under Siege  Dark Territory,Natala Mines,700,3
+802,Damned United,Mirilla O'Crowley,1400,1
+803,Ninjas vs Zombies,Ewell Easseby,1900,3
+804,Let's Not Keep in Touch!,Candide Fullun,1100,1
+805,Return to Paradise,Clevie Squelch,1100,4
+806,Blot,Cass Inder,1400,4
+807,Avalanche,Bald Lancley,1300,2
+808,Smitty,Morton Claire,1400,4
+809,Wadd The Life Times,Clevie Squelch,1500,3
+810,Phaedra,Johnathan Embury,1600,4
+811,Melinda and Melinda,Berrie Fendlen,1500,3
+812,Sisters,Rabbi Vyse,1300,6
+813,Death Takes a Holiday,Natala Mines,1400,2
+814,The Count of Monte Cristo,Hube Lentsch,1100,2
+815,The Lunchbox,Siouxie Peerman,1700,5
+816,This Above All,Karlyn Marages,1200,2
+817,Björk Volumen,Raquel Duncanson,2000,5
+818,Asterix in Britain,Karlyn Marages,1600,5
+819,North by Northwest,Johnathan Embury,1300,4
+820,Eve's Bayou,Christi Jancey,1600,3
+821,You Can't Win'Em All,Mirilla Van der Beken,900,2
+822,My Voyage to Italy,Siouxie Peerman,1500,2
+823,Her,Riva Mattusov,1000,2
+824,Bat Whispers,Mariquilla Tolliday,1100,6
+825,Burning Blue,Daria Ker,2200,1
+826,Blood Feast,Christi Jancey,500,4
+827,Silent House,Sven Ledes,1400,5
+828,Rape Me Baisemoi,Bald Lancley,1800,3
+829, Blind Mice,Cornelle Forcer,1400,5
+830,Homeward Bound's Incredible Journey,Crosby Lideard,1300,2
+831,Emmanuelle ,Bernadine Oaker,900,5
+832,Bitch Slap,Vere Roper,1300,6
+833,Neverwhere,Natala Mines,1600,6
+834,Killer Pad,Morton Claire,800,6
+835,Ghoulies III Ghoulies Go to College,Nari Middlemist,1600,3
+836,Million Dollar Mystery,Bald Lancley,1600,2
+837,Snoopy Come Home,Natala Mines,1500,6
+838,Barney's Great Adventure,Natala Mines,800,5
+839,Gleason,Siouxie Peerman,1800,5
+840,Costa Brava,Johnathan Embury,700,3
+841,Matter of Life and Death,Mariquilla Tolliday,1200,2
+842,Garfield's Fun Fest,Seth Nutty,200,5
+843,Fanny,Crosby Lideard,1500,5
+844,Ali Baba Goes to Town,Brad Lanfere,1800,6
+845,Z Channel A Magnificent Obsession,Candide Fullun,1400,1
+846,Are We Done Yet?,Christi Jancey,900,1
+847,Phantom Stagecoach,Mirilla O'Crowley,1000,6
+848,Code,Brad Lanfere,1500,1
+849,Now You See Me,Ewell Easseby,1200,2
+850,Tokyo Godfathers,Christi Jancey,1200,5
+851,Destry Rides Again,Marsh Scranny,1900,4
+852,Three aka ,Nari Middlemist,1900,2
+853,Dallas,Christi Jancey,700,5
+854,Breakfast of Champions,Bernadine Oaker,1000,6
+855,Once Upon a Time in Shanghai,Earvin Witcher,1200,5
+856,Twilight People,Brad Lanfere,1200,4
+857,Flamingo Kid,Germaine Balaam,1100,1
+858,Bye Bye Monkey Ciao maschio,Nissy Cowburn,800,6
+859,Trespasser,Crosby Lideard,2000,5
+860,VacuumCleaner Salesmen,Bernadine Oaker,1400,2
+861,RoboCop,Brad Lanfere,1200,5
+862,Fog,Christi Jancey,800,1
+863,Angel and the Badman,Ferne Waterman,1200,3
+864,Titanic,Concordia O'Brien,200,1
+865,This Land Is Mine,Earvin Witcher,2100,2
+866,Stage Fright,Natala Mines,1300,5
+867,Lord of the Rings The Fellowship of the Ring,Seth Nutty,1300,4
+868,Maniacs,Earvin Witcher,1900,6
+869,Whipped,Natala Mines,900,2
+870,Page Turner The Tourneuse,Cornelle Forcer,600,3
+871,Gunfighter,Daria Ker,1000,6
+872,Hot Rod,Riva Mattusov,800,3
+873,In Order of Disappearance Kraftidioten,Mirilla Van der Beken,1500,6
+874,I Accuse,Port Methringham,1600,3
+875,Big Bad Wolf,Hube Lentsch,1700,6
+876,Tour De Force Hin und weg,Aggy Flecknell,1200,2
+877,Post Grad,Brad Lanfere,500,4
+878,Antonio das Mortes,Sigfrid Southward,1500,4
+879,Plymouth Adventure,Riva Mattusov,1200,5
+880,Hellboy,Crosby Lideard,1700,5
+881,Marie from the Bay,Candide Fullun,1200,5
+882,Tracy Morgan Black and Blue,Marsh Scranny,1100,5
+883,Birdcage,Concordia O'Brien,1300,6
+884,Hellsing Ultimate X,Bernadine Oaker,1700,2
+885,Violette Violette Nozière,Bernadine Oaker,1100,5
+886,Pistol Opera Pisutoru opera,Sven Ledes,1600,4
+887,Fatherland,Ellene McGurk,1800,5
+888,Villa Amalia,Cass Inder,1200,2
+889,CRAZY,Mariquilla Tolliday,1200,3
+890,See Here Private Hargrove,Sven Ledes,1400,2
+891,My New Gun,Kendricks Angrick,1200,2
+892,Lacemaker The Dentellière,Siouxie Peerman,1000,6
+893,HOUBA! On the Trail,Aubrette Housaman,1600,4
+894,Down to You,Crosby Lideard,1000,4
+895,Actress The,Crosby Lideard,1400,1
+896,Ratatouille,Riva Mattusov,900,2
+897,Sex Tape,Moe Ebhardt,1000,3
+898,Roommate,Rabbi Vyse,1600,6
+899,Blades of Glory,Siouxie Peerman,1300,3
+900,District ,Port Methringham,1900,4
+901,My Darling Clementine,Marsh Scranny,2000,5
+902,Man Who Planted Trees,Bernadine Oaker,600,5
+903,Justin Bieber,Nissy Cowburn,800,2
+904,Straits of Love and Hate,Earvin Witcher,1300,3
+905,Louis CK Oh My God,Nari Middlemist,1100,6
+906,Le crocodile du Botswanga,Atlante Peete,1900,4
+907,Rage,Natala Mines,600,1
+908,To Each His Own Cinema,Bald Lancley,1800,1
+909,Children of the Corn III,Johnathan Embury,1100,1
+910,Cheaper by the Dozen ,Clevie Squelch,2000,5
+911,Trip to the Moon A Voyage,Siouxie Peerman,1300,3
+912,Ladies and Gentlemen,Earvin Witcher,1300,2
+913,Man for a Day,Ferne Waterman,1600,2
+914,Unreasonable Man,Elsey Spinige,1600,5
+915,Dust to Glory,Earvin Witcher,700,5
+916,Carol for Another Christmas,Daria Ker,1300,6
+917,Grey Gardens,Concordia O'Brien,1200,1
+918,Darling Lili,Riva Mattusov,2400,2
+919,Criminal The aka Concrete Jungle,Christi Jancey,700,3
+920,Ernest Goes to Camp,Cass Inder,800,3
+921,Dante's Inferno,Cass Inder,900,2
+922,Cold Light of Day,Natala Mines,1700,4
+923,Best of the Best ,Vere Roper,1300,3
+924,Head Office,Crosby Lideard,2300,3
+925,Departures Okuribito,Ellene McGurk,1400,6
+926,Balzac and the Little,Sven Ledes,1600,6
+927,Ruins,Tracy Stent,1400,3
+928,Artists and Models,Grata Bonnaire,1100,6
+929,Short Night of the Glass,Hube Lentsch,700,2
+930,Dark Girls,Tracy Stent,500,4
+931,Is Anybody There?,Port Methringham,700,5
+932,In the Line of Duty,Rabbi Vyse,1800,3
+933,Confessions Holiday Camp,Rabbi Vyse,800,1
+934,Lucky Break,Berrie Fendlen,600,4
+935,Little Soldier Lille soldat,Bernadine Oaker,1400,2
+936,Brooklyn Rules,Sigfrid Southward,400,3
+937,Cheyenne Social Club,Natala Mines,1900,6
+938,Squirm,Atlante Peete,1000,6
+939,Sapphire,Sigfrid Southward,1300,4
+940,Violette Violette,Cass Inder,1200,4
+941,Chronicle,Nari Middlemist,1000,1
+942,Moonlighting,Marsh Scranny,1200,2
+943,Montana Sky,Christi Jancey,1200,3
+944,Wild Tigers I Have Known,Crosby Lideard,500,4
+945,Next Stop Greenwich Village,Mariquilla Tolliday,600,5
+946,Magnificent Ambersons,Daffi Kemme,200,5
+947,City Lights,Germaine Balaam,1700,1
+948,Ordinary Decent Criminal,Germaine Balaam,1600,5
+949,Summer in Berlin Sommer vorm Balkon,Aubrette Housaman,1000,3
+950,The Gamers Hands of Fate,Crosby Lideard,1000,6
+951,Hurricane Express,Mar Bulward,1100,6
+952,Hans Christian Andersen,Mariquilla Tolliday,1300,5
+953,Nobody Knows Anybody,Karlyn Marages,1100,6
+954,SUBWAYStories Tales from the Underground,Vere Roper,1700,5
+955,Odd Girl Out,Brad Lanfere,1500,4
+956,My Little Chickadee,Crosby Lideard,1700,6
+957,Where Danger Lives,Natala Mines,1000,2
+958,Katze im Sack,Mirilla Van der Beken,1200,3
+959,American The Bill Hicks Story,Morton Claire,1400,6
+960,Love Is Colder Than Death,Marsh Scranny,2100,4
+961,Death The Bill of Berlin,Port Methringham,700,2
+962,Playmobil The Secret of Pirate Island,Cornelle Forcer,1300,2
+963,Red Scorpion,Clevie Squelch,2000,2
+964,Body Snatcher,Riva Mattusov,1800,5
+965,Adventures of Huckleberry Finn,Riva Mattusov,1400,6
+966,Mexican Hayride,Cornelle Forcer,1800,5
+967,Liam,Bald Lancley,800,3
+968,MASH aka MASH,Rabbi Vyse,1400,3
+969,Walk Among the Tombstones,Clevie Squelch,2700,5
+970,Jiro Dreams of Sushi,Ewell Easseby,1400,5
+971,Finn Colder Than Thief,Karlyn Marages,1300,6
+972,Ernest Rides Again,Smitty Thames,1400,2
+973,Soul Survivors aka The Killer Cut,Mar Bulward,1300,1
+974,King Kong Lives,Smitty Thames,1200,1
+975,Flodder ,Daria Ker,900,4
+976,Proof of Life,Marsh Scranny,500,3
+977,Two Girls and a Sailor,Aggy Flecknell,900,5
+978,Thunderpants,Marsh Scranny,1000,3
+979,Foreign Letters,Mirilla O'Crowley,2000,4
+980,Big Brown Eyes,Aubrette Housaman,1900,3
+981,Thief of Bagdad,Mirilla O'Crowley,1500,4
+982,In This Our Life,Concordia O'Brien,1200,3
+983,Million Dollar Mystery,Port Methringham,1400,5
+984,Rise and Fall of Diamond,Clevie Squelch,1300,4
+985,Assassin Next Door The Kirot,Kendricks Angrick,1600,1
+986,Still Waiting,Candide Fullun,1500,4
+987,Drones,Christi Jancey,1800,3
+988,Where Sleeping Dogs Lie,Christi Jancey,1000,2
+989,Naked Weapon Check,Siouxie Peerman,1500,6
+990,Terumae romae Thermae Romae,Johnathan Embury,1500,5
+991,Poseidon Adventure,Aggy Flecknell,900,2
+992,Just Anybody Le premier venu,Siouxie Peerman,1100,4
+993,Other Side of the Bed,Bernadine Oaker,1200,2
+994,Wicked Lady,Marsh Scranny,1000,2
+995,Firestarter,Moe Ebhardt,1800,5
+996,The Heart Machine,Mariquilla Tolliday,900,5
+997,Kai Po Che!,Clevie Squelch,1700,4
+998,We Live Again,Sven Ledes,1600,4
+999,Joan of Arc,Germaine Balaam,1700,4
+1000,Gekijōban Tengen Toppa Gurren Lagann Gurren-hen,Seth Nutty,900,1
